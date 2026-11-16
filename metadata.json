@@ -1,0 +1,6 @@
+{
+  "name": "Faris PSR-S975",
+  "description": "Professional Android arranger keyboard workstation with sample-based instruments, auto-accompaniment styles, chord recognition, mixer, effects, MIDI, and audio recording.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

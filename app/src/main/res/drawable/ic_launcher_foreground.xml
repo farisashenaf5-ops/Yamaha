@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Gold outer workstation ring -->
+    <path
+        android:pathData="M54,18 A36,36 0 1,1 53.99,18 Z"
+        android:strokeWidth="2.5"
+        android:strokeColor="#D4AF37"
+        android:fillColor="#161920" />
+    <!-- Silver piano white keys base -->
+    <path
+        android:pathData="M31,48 L77,48 L77,72 L31,72 Z"
+        android:fillColor="#F0F3F7" />
+    <!-- Key separator lines -->
+    <path
+        android:pathData="M40.2,48 L40.2,72 M49.4,48 L49.4,72 M58.6,48 L58.6,72 M67.8,48 L67.8,72"
+        android:strokeWidth="1.2"
+        android:strokeColor="#2A2E37" />
+    <!-- Ebony black keys -->
+    <path
+        android:pathData="M37,48 L43,48 L43,62 L37,62 Z M46.2,48 L52.2,48 L52.2,62 L46.2,62 Z M64.6,48 L70.6,48 L70.6,62 L64.6,62 Z"
+        android:fillColor="#121418" />
+    <!-- Gold LCD accent bar above keys -->
+    <path
+        android:pathData="M31,41 L77,41 L77,45 L31,45 Z"
+        android:fillColor="#D4AF37" />
+    <!-- Acoustic cyan/gold waveform crown -->
+    <path
+        android:pathData="M35,34 L41,34 L44,28 L48,38 L52,25 L56,37 L60,29 L64,35 L73,34"
+        android:strokeWidth="2.4"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:strokeColor="#4FC3F7"
+        android:fillColor="@android:color/transparent" />
+</vector>
